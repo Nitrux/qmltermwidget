@@ -1,0 +1,15 @@
+dist: focal
+
+before_install:
+  - gem install package_cloud
+
+script:
+  - sudo ./travis-build.sh
+
+branches:
+  only:
+    - main
+
+notifications:
+  email: false
+
