@@ -1,4 +1,4 @@
-qml-module-qmltermwidget (2:1.1.1+nitrux+bic-patch) nitrux; urgency=medium
+qml-module-qmltermwidget (1.1.2+nitrux+bic-patch) nitrux; urgency=medium
 
   * Create package.
 
