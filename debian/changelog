@@ -1,5 +1,5 @@
-qml-module-qmltermwidget (1:0.2.0+nitrux) nitrux; urgency=medium
+qml-module-qmltermwidget (2:1.1.1+nitrux+bic-patch) nitrux; urgency=medium
 
   * Create package.
 
- -- Uri Hererra <uri_herrera@nxos.org>  Fri, 09 Jul 2021 15:47:00 -0500
+ -- Uri Hererra <uri_herrera@nxos.org>  Fri, 12 Nov 2021 13:19:00 -0500

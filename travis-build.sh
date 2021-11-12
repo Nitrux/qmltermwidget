@@ -22,7 +22,7 @@ mk-build-deps -i -t "apt-get --yes" -r
 
 ### Clone repo.
 
-git clone https://github.com/Swordfish90/qmltermwidget.git
+git clone https://github.com/bvbfan/qmltermwidget.git
 
 mv qmltermwidget/* .
 
